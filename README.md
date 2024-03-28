@@ -31,6 +31,92 @@
 </div>
 
 ###
+<a href="#projects">
+ <h2 align="left">🌟 Projects</h2>
+</a>
+
+###
+
+<a target="_blank" href="https://editor.devvarena.com/">
+ <h3 align="left">1. Frontend Editor with Console</h3>
+</a>
+
+###
+
+<p align="left">It is a beginner-friendly frontend editor packed with features like CSS tools, a JavaScript editor, an HTML editor, and a CSS editor, along with a JavaScript console for debugging.</p>
+
+###
+
+<div align="center">
+ <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1711636001/Screenshot_2024-03-28_175647_hjbe3q.png" />
+</div>
+
+###
+
+<a target="_blank" href="https://palette-paradise.devvarena.com/">
+ <h3 align="left">2. Dynamic CSS Button Generator</h3>
+</a>
+
+###
+
+<p align="left">Dynamic stylish and interactive button generator, featuring over 20 presets of the best buttons available on the internet</p>
+
+###
+
+<div align="center">
+ <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1711636120/Screenshot_2024-03-28_195824_px2cfa.png" />
+</div>
+
+###
+
+<a target="_blank" href="https://box-shadows.devvarena.com/">
+ <h3 align="left">3. Box shadows Generator</h3>
+</a>
+
+###
+
+<p align="left">It Generate CSS code for custom box shadows with ease.</p>
+
+###
+
+<div align="center">
+ <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1711636278/Screenshot_2024-03-28_200100_ioc3fo.png" />
+</div>
+
+###
+
+<a target="_blank" href="https://palette-paradise.devvarena.com/">
+ <h3 align="left">4. Palette Paradise</h3>
+</a>
+
+###
+
+<p align="left">Manages color palettes for web designs with more than 100 palettes of different categories.</p>
+
+###
+
+<div align="center">
+ <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1711636267/Screenshot_2024-03-28_195909_bydhl8.png" />
+</div>
+
+###
+
+<a target="_blank" href="https://favtab.devvarena.com/">
+ <h3 align="left">5. Favtab</h3>
+</a>
+
+###
+
+<p align="left">A straightforward tool for managing your bookmarks across all browsers. With FavTab, you can easily store and access your favorite websites in Brave, Firefox, Opera, and Chrome by signing in with your Google ID.</p>
+
+###
+
+<div align="center">
+ <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1711636318/Screenshot_2024-03-28_200145_hxak3s.png" />
+</div>
+
+###
+
 ###
 
 <h2 align="left">📫 How to Reach Me</h2>
