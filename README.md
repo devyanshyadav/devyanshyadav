@@ -31,9 +31,7 @@
 </div>
 
 ###
-<a href="#projects">
  <h2 align="left">🌟 Projects</h2>
-</a>
 
 ###
 
