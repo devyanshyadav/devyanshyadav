@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🛠️ Skills</h2>
+<h2 align="left">🛠️ I code with</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 </div>
 
 ###
- <h2 align="left">🌟 Projects</h2>
+ <h2 align="left">🌟 Projects for friends</h2>
 
 ###
 
