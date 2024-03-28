@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Devyansh <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" alt="gif"/></h1>
+<h1 align="left">Hi, I'm Devyansh 👋</h1>
 
 ###
 
