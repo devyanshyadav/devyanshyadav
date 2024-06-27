@@ -35,8 +35,24 @@
 
 ###
 
+<a target="_blank" href="https://dev-components.vercel.app/">
+ <h3 align="left">Dev Components</h3>
+</a>
+
+###
+
+<p align="left">Dev Components, is a unique platform providing fully customizable React components in TSX/JSX, seamlessly styled with Tailwind CSS. Unlock productivity and efficiency with our ready-to-use, highly flexible UI elements.</p>
+
+###
+
+<div align="center">
+ <img height="200" src="https://res.cloudinary.com/dl4pas8jn/image/upload/v1719474912/frlg94pn4yafxd0zi0g5.png" />
+</div>
+
+###
+
 <a target="_blank" href="https://editor.devvarena.com/">
- <h3 align="left">1. Frontend Editor with Console</h3>
+ <h3 align="left">Frontend Editor with Console</h3>
 </a>
 
 ###
@@ -52,7 +68,7 @@
 ###
 
 <a target="_blank" href="https://palette-paradise.devvarena.com/">
- <h3 align="left">2. Dynamic CSS Button Generator</h3>
+ <h3 align="left">Dynamic CSS Button Generator</h3>
 </a>
 
 ###
@@ -68,7 +84,7 @@
 ###
 
 <a target="_blank" href="https://box-shadows.devvarena.com/">
- <h3 align="left">3. Box shadows Generator</h3>
+ <h3 align="left">Box shadows Generator</h3>
 </a>
 
 ###
@@ -84,7 +100,7 @@
 ###
 
 <a target="_blank" href="https://palette-paradise.devvarena.com/">
- <h3 align="left">4. Palette Paradise</h3>
+ <h3 align="left">Palette Paradise</h3>
 </a>
 
 ###
@@ -100,7 +116,7 @@
 ###
 
 <a target="_blank" href="https://favtab.devvarena.com/">
- <h3 align="left">5. Favtab</h3>
+ <h3 align="left">Favtab</h3>
 </a>
 
 ###
