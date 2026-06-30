@@ -1,163 +1,48 @@
-<h1 align="left">Hi, I'm Devyansh 👋</h1>
+# 👨‍💻 Devyansh Yadav
+**Product & Design Engineer**
 
-###
+> Building AI-Native Products • Full-Stack • UX-First Engineering
 
-<p align="left">I am an enthusiastic web developer with a specialization in frontend development, possessing a deep-rooted passion for crafting innovative tools and applications designed to elevate user productivity. My strategy in web development is anchored in the values of clean code, exceptional performance, and user-centric design.</p>
+Mumbai, India · `STATUS: EXECUTING` 🚀
 
-###
+[Email](mailto:devyanshdeveloper@gmail.com) · [GitHub](https://github.com/devyanshyadav) · [LinkedIn](https://www.linkedin.com/in/devyansh-yadav/) · [X / Twitter](https://x.com/DevyanshYadavv)
 
-<h2 align="left">🛠️ I code with</h2>
+---
 
-###
+### 👤 About
+Product & Design Engineer focused on building AI-native applications with exceptional UX. I combine technical depth with design precision, leveraging AI tools to move faster and deliver better experiences.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-</div>
+### 💻 Tech Stack
 
-###
- <h2 align="left">🌟 Projects for friends</h2>
+- **Core** ⚡ `Next.js` `React` `TypeScript` `Node.js`
+- **AI** 🤖 `Cursor` `Claude` `Gemini` `DeepSeek`
+- **UI/UX** 🎨 `Figma` `Tailwind CSS` `Framer Motion`
+- **Cloud** ☁️ `Vercel` `Supabase` `MongoDB` `PostgreSQL`
 
-###
+---
 
-<a target="_blank" href="https://dev-components.vercel.app/">
- <h3 align="left">Dev Components</h3>
-</a>
+### 🌟 Featured Projects
 
-###
+*   💬 **[T4.Chat](https://github.com/Huminexdotco/t3dotchat-clone)** — A powerful, feature-rich clone of t3.chat with advanced AI capabilities.
+*   📊 **[TableNex](https://tablenex.devvarena.com/)** — A React table library for building powerful data tables.
+*   ⚙️ **[DevGPT](https://github.com/devyanshyadav/DevGPT--Innovative-ChatGPT-Scraping-Solutions)** — Innovative ChatGPT Scraping Solutions.
+*   🖼️ **[Dev ImgKit](https://github.com/devyanshyadav/dev-imgkit)** — Cloud-based image processing platform.
+*   🗄️ **[G Drive API](https://github.com/devyanshyadav/G-drive-server-API)** — An advanced backend for Google Drive integration.
+*   🔮 **[ChaiGenie](https://github.com/devyanshyadav/chaidocs-ai-assistant)** — RAG-powered Chrome extension to chat with documentation.
 
-<p align="left">Dev Components, is a unique platform providing fully customizable React components in TSX/JSX, seamlessly styled with Tailwind CSS. Unlock productivity and efficiency with our ready-to-use, highly flexible UI elements.</p>
+---
 
-###
+### 📝 Blogs & Writing
+I write about AI, web development, and building better products. Check out my latest articles on my portfolio:  
+🔗 [devyanshyadav.com/blog](https://www.devyanshyadav.com/#blogs)
 
-<div align="center">
- <img height="200" src="https://res.cloudinary.com/dl4pas8jn/image/upload/v1719474912/frlg94pn4yafxd0zi0g5.png" />
-</div>
+### 🎯 Current Focus
+- 🏗️ Building AI-native enterprise applications
+- 🔌 Exploring Model Context Protocol (MCP) integrations
+- 🪄 Crafting exceptional UI/UX with modern animation libraries
 
-###
+---
 
-<a target="_blank" href="https://editor.devvarena.com/">
- <h3 align="left">Frontend Editor with Console</h3>
-</a>
-
-###
-
-<p align="left">It is a beginner-friendly frontend editor packed with features like CSS tools, a JavaScript editor, an HTML editor, and a CSS editor, along with a JavaScript console for debugging.</p>
-
-###
-
-<div align="center">
- <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1717927248/Screenshot_2024-03-28_175647_mfpdjb.png" />
-</div>
-
-###
-
-<a target="_blank" href="https://palette-paradise.devvarena.com/">
- <h3 align="left">Dynamic CSS Button Generator</h3>
-</a>
-
-###
-
-<p align="left">Dynamic stylish and interactive button generator, featuring over 20 presets of the best buttons available on the internet</p>
-
-###
-
-<div align="center">
- <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1717927248/Screenshot_2024-03-28_195824_lka6un.png" />
-</div>
-
-###
-
-<a target="_blank" href="https://box-shadows.devvarena.com/">
- <h3 align="left">Box shadows Generator</h3>
-</a>
-
-###
-
-<p align="left">It Generate CSS code for custom box shadows with ease.</p>
-
-###
-
-<div align="center">
- <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1717927248/Screenshot_2024-03-28_200100_wxas02.png" />
-</div>
-
-###
-
-<a target="_blank" href="https://palette-paradise.devvarena.com/">
- <h3 align="left">Palette Paradise</h3>
-</a>
-
-###
-
-<p align="left">Manages color palettes for web designs with more than 100 palettes of different categories.</p>
-
-###
-
-<div align="center">
- <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1717927248/Screenshot_2024-03-28_195909_oennsr.png" />
-</div>
-
-###
-
-<a target="_blank" href="https://favtab.devvarena.com/">
- <h3 align="left">Favtab</h3>
-</a>
-
-###
-
-<p align="left">A straightforward tool for managing your bookmarks across all browsers. With FavTab, you can easily store and access your favorite websites in Brave, Firefox, Opera, and Chrome by signing in with your Google ID.</p>
-
-###
-
-<div align="center">
- <img height="200" src="https://res.cloudinary.com/dihmxyzsf/image/upload/v1717927248/Screenshot_2024-03-28_200145_ztxaej.png" />
-</div>
-
-###
-
-###
-
-<h2 align="left">📫 How to Reach Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/devyansh-yadav" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/devyanshyadavv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
- <a href="mailto:devyanshdeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-</a>
-  <a href="https://codepen.io/Devyansh-coder" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">🎉 Fun Fact</h2>
-
-###
-
-<p align="left">I'm always eager to dive into the latest AI tools and technologies, driven by a deep curiosity and a desire to innovate.</p>
-
-###
+<p align="center">
+  <sub>Made with ❤️ · 2026</sub>
+</p>
