@@ -25,16 +25,22 @@ Product & Design Engineer focused on building AI-native applications with except
 
 *   💬 **[T4.Chat](https://github.com/Huminexdotco/t3dotchat-clone)** — A powerful, feature-rich clone of t3.chat with advanced AI capabilities.
 *   📊 **[TableNex](https://tablenex.devvarena.com/)** — A React table library for building powerful data tables.
+*   🌈 **[Mesh Gradient Generator](https://mesh.devvarena.com/)** — Premium mesh gradients with unique grain effects.
 *   ⚙️ **[DevGPT](https://github.com/devyanshyadav/DevGPT--Innovative-ChatGPT-Scraping-Solutions)** — Innovative ChatGPT Scraping Solutions.
 *   🖼️ **[Dev ImgKit](https://github.com/devyanshyadav/dev-imgkit)** — Cloud-based image processing platform.
-*   🗄️ **[G Drive API](https://github.com/devyanshyadav/G-drive-server-API)** — An advanced backend for Google Drive integration.
-*   🔮 **[ChaiGenie](https://github.com/devyanshyadav/chaidocs-ai-assistant)** — RAG-powered Chrome extension to chat with documentation.
+*   ⚡ **[Xtract](https://chromewebstore.google.com/detail/xtract-extract-text-analy/gffpgogeokibdieebkhajmpoclhedanm)** — AI-driven Chrome extension to extract and analyze text.
+*   🚀 **[Devvarena](https://www.devvarena.com/)** — A Frontend Editor built specifically for beginners.
+*   ✨ **[Dev Gemini](https://dev-gemini-clone.vercel.app/)** — Next-level Gemini clone built for speed and enhanced UX.
+*   🧩 **[Dev Components](https://dev-components.vercel.app/)** — A curated collection of highly reusable UI components.
+*   🗄️ **[G Drive](https://github.com/devyanshyadav/G-drive-server-API)** — An advanced, robust backend for Google Drive integration.
+*   🎨 **[Play NFT](https://dev-playnft.vercel.app/)** — A sleek, modern SaaS NFT landing page.
+*   🔮 **[ChaiGenie](https://github.com/devyanshyadav/chaidocs-ai-assistant)** — RAG-powered Chrome extension to chat seamlessly with documentation.
 
 ---
 
 ### 📝 Blogs & Writing
 I write about AI, web development, and building better products. Check out my latest articles on my portfolio:  
-🔗 [devyanshyadav.com/blog](https://www.devyanshyadav.com/#blogs)
+🔗 [devyanshyadav.com/blog](https://devyanshyadav.com/#blogs)
 
 ### 🎯 Current Focus
 - 🏗️ Building AI-native enterprise applications
